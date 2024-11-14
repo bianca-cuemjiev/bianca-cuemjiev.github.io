@@ -1,14 +1,17 @@
 <html>
 
 <head>
-<title> Prima mea pagina realizata in 07.11.2024</title>
+<title> 
 </head>
 
-<body style="background color=pink;">
-<body>
+<body BGCOLOR="pink">
 
-<p>Curand am sa devin un <b>expert<b> HTML</p>
-<p>Pagina realizata de <b><i>Bianca-Andreea Cuemjiev</i><?b></p>
+<h1> Prima mea pagina realizata in 07.11.2024</h1>
+
+<p>Curand am sa devin <strong>expert</strohg>
+HTML
+<p>
+Pagina realizata de <cite><b><i>I. Bianca-Andreea Cuemjiev</i></b></cite>
 </body>
 
 </html>
