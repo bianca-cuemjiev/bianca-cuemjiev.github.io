@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste HTML</title>
+</head>
+<body>
+    <h1>Exemplu de liste în HTML</h1>
+
+    <h2>Lista neordonată</h2>
+    <ul>
+        <li>Element neordonat 1</li>
+        <li>Element neordonat 2</li>
+        <li>Element neordonat 3</li>
+    </ul>
+
+    <h2>Lista ordonată</h2>
+    <ol>
+        <li>Element ordonat 1</li>
+        <li>Element ordonat 2</li>
+        <li>Element ordonat 3</li>
+    </ol>
+</body>
+</html>
